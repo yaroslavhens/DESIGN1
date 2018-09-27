@@ -1,5 +1,8 @@
 * {
-	font-family: cursive;
+	transition: all .2s ease-in;
+}
+html {
+  scroll-behavior: smooth ;
 }
 .h_1 { 
 	padding-top: 80px;
@@ -31,7 +34,6 @@ img {
 	margin: auto;
 	padding-top: 80px;
 }
-
  .img2 { 
  	margin-top: 55px;
  }
@@ -49,7 +51,7 @@ img {
 }
 .about {
 	 	max-width: 1820px;
-		height: 1892px;
+		height: 1092px;
 		margin-top: 80px
 }
 .h1_2 {
